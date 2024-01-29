@@ -1,0 +1,8 @@
+*{margin: 0; padding: 0;}
+a{text-decoration: none; color: #333; display: block;}
+ul{list-style: none;}
+
+body{
+    font-family:'Noto Sans KR', sans-serif;;
+    color: #333;
+}

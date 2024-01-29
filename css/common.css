@@ -1,0 +1,10 @@
+.wrap,header,section{
+    width: 100%;
+}
+
+@media all and (max-width: 1200px){
+
+    .wrap,header{
+        width: 100%;
+    }
+}
